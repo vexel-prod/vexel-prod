@@ -1,75 +1,85 @@
-<h1 align="center">Привет! Я Владимир Пашкин 👋</h1>
+<h1 align="center">Владимир Пашкин</h1>
 <p align="center">
-  💻 Фронтенд-разработчик и digital-дизайнер <br>
-  🧩 Создаю интерфейсы, которые объединяют эстетику и производительность <br>
-  🌐 Автор проекта <a href="https://refla.ru" target="_blank">REFLA.ru</a> — зеркала на входные двери “под ключ”
+Frontend Developer (Junior) • React • Next.js • TypeScript <br>
+Автор и разработчик коммерческого сайта <a href="https://refla.ru" target="_blank">refla.ru</a>
 </p>
 
 ---
 
-## 🪞 Обо мне
+## Обо мне
 
-Я разрабатываю **чистые, быстрые и понятные интерфейсы**, где дизайн и код работают как единое целое.  
-Сейчас фокусируюсь на проектах, которые решают реальные задачи бизнеса — например, [REFLA.ru](https://refla.ru): сайт для компании по установке зеркал на двери.  
+Junior Frontend-разработчик с практическим опытом разработки и поддержки продакшен-сайта.  
+Разрабатываю интерфейсы на React и Next.js, работаю с формами, интеграциями и деплоем.
 
-**Мне интересно:**  
-- проектировать логичные и эстетичные UI;  
-- писать надёжный, поддерживаемый фронтенд на **React / Next.js**;  
-- автоматизировать рутину с помощью **Python** и пользовательских скриптов;  
-- искать визуальный баланс между кодом и композицией.
-
-> “Код — это тоже дизайн. Просто без цвета и теней.”
+Основной фокус — прикладная разработка под реальные бизнес-задачи.
 
 ---
 
-## 🧠 Навыки
+## Навыки
 
-| Область | Технологии |
-|----------|-------------|
-| Фронтенд | HTML • CSS • JavaScript (ES6+) • TypeScript |
-| Фреймворки | React • Next.js |
-| Стили | Tailwind CSS • shadcn/ui • CSS Modules |
-| Автоматизация | Python • Playwright • Selenium |
-| Дизайн | Figma • Минимализм • Прототипирование интерфейсов |
+**Frontend**
+- HTML, CSS, JavaScript (ES6+), TypeScript
+- React, Next.js
 
----
+**UI / Стили**
+- CSS Modules, Tailwind CSS, shadcn/ui
 
-## 🚀 Проект
+**Инструменты**
+- Git
+- Vercel
+- REST API
 
-### [REFLA Mirror Site](https://github.com/P4SVAL/refla-mirror-site)
-> Зеркальная версия коммерческого сайта [REFLA.ru](https://refla.ru) — учебно-прикладной проект.
-
-**Стек:** Next.js • TypeScript • TailwindCSS  
-
-**Особенности:**
-- статическая генерация для мгновенной загрузки;  
-- адаптивная вёрстка и чистая архитектура компонентов;  
-- подготовка к SEO и интеграции CMS.
+**Автоматизация / Тестирование**
+- Playwright (базово)
+- Selenium (базово)
+- Python (для скриптов и автоматизации)
 
 ---
 
-## 📫 Контакты
+## Коммерческий проект
 
-- ✉️ **vldmrpashkin@icloud.com**  
-- 💬 [@pashkinva](https://t.me/pashkinva)
+### REFLA — сайт услуг по установке зеркал на входные двери
+Live: https://refla.ru  
+Repo: https://github.com/vexel-prod/refla-mirror-site
 
----
+Стек: Next.js, TypeScript, Tailwind CSS, Vercel
 
-## ⚡ Немного философии
+В рамках проекта я:
 
-> Я не просто делаю сайты — я создаю **отражения идей**.  
-> Каждый элемент интерфейса — это мысль, переведённая на язык кода.
+- Разработал клиентскую часть сайта
+- Реализовал калькулятор стоимости услуг
+- Настроил формы заявок с валидацией
+- Интегрировал уведомления через Telegram Bot API
+- Настроил деплой, домен и HTTPS
+- Поддерживаю и дорабатываю проект
 
----
-
-## 🌎 English Version
-
-**Hey! I’m Vladimir Pashkin — Front-End Developer & Digital Designer.**  
-I build fast, minimal, and aesthetic user interfaces with **React**, **Next.js**, and **TypeScript**.  
-Creator of [REFLA.ru](https://refla.ru) — a real-world business website that merges design and logic.  
-
-💡 I believe every line of code and every pixel should serve a clear purpose.
+Проект используется реальными пользователями и приносит лиды бизнесу.
 
 ---
 
-⭐️ *Если понравился мой профиль — поставь звезду проектам и подпишись!*
+## Другие проекты
+
+### React Users DB (тестовое / учебно-прикладной проект)
+Repo: https://github.com/vexel-prod/react-users-fsd
+
+- Авторизация и protected routes
+- CRUD для пользователей
+- TanStack Query
+- Архитектура Feature-Sliced Design (FSD)
+- Ant Design
+
+---
+
+## Контакты
+
+- Email: vldmrpashkin@gmail.com  
+- Telegram: https://t.me/pashkinva
+
+---
+
+## English
+
+**Frontend Developer (Junior)** focused on React, Next.js, and TypeScript.  
+Built and maintain a production website for a real business: https://refla.ru
+
+Interested in practical frontend development, UI, integrations, and deployment.
