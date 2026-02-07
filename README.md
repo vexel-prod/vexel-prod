@@ -1,8 +1,10 @@
 <h1 align="center">Владимир Пашкин</h1>
 <p align="center">
 Frontend Developer (Middle) • React • Next.js • TypeScript <br>
+</p>
+<p>
 Автор и разработчик коммерческого сайта <a href="https://refla.ru" target="_blank">refla.ru</a>
-  
+<br>
 Автор и разработчик коммерческого сайта <a href="https://set-engine.ru" target="_blank">set-engine.ru</a>
 </p>
 
