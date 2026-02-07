@@ -2,7 +2,7 @@
 <p align="center">
 Frontend Developer (Middle) • React • Next.js • TypeScript <br>
 </p>
-<p>
+<p align="center">
 Автор и разработчик коммерческого сайта <a href="https://refla.ru" target="_blank">refla.ru</a>
 <br>
 Автор и разработчик коммерческого сайта <a href="https://set-engine.ru" target="_blank">set-engine.ru</a>
