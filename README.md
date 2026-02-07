@@ -18,16 +18,17 @@ Junior Frontend-разработчик с практическим опытом 
 ## Навыки
 
 **Frontend**
-- HTML, CSS, JavaScript (ES6+), TypeScript
-- React, Next.js
+![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
 
 **UI / Стили**
-- CSS Modules, Tailwind CSS, shadcn/ui
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-11-ff69b4?style=for-the-badge&logo=framer)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 **Инструменты**
-- Git
-- Vercel
-- REST API
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Автоматизация / Тестирование**
 - Playwright (базово)
