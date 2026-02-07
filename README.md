@@ -26,6 +26,8 @@ Junior Frontend-разработчик с практическим опытом 
 
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-ff69b4?style=for-the-badge&logo=framer)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Ant Design](https://img.shields.io/badge/Ant_Design-1677FF?style=for-the-badge&logo=antdesign&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
 **Инструменты**
 
