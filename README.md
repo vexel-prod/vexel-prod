@@ -20,12 +20,12 @@ Junior Frontend-разработчик с практическим опытом 
 **Frontend**
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 
 **UI / Стили**
 
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-11-ff69b4?style=for-the-badge&logo=framer)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-ff69b4?style=for-the-badge&logo=framer)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 **Инструменты**
 
