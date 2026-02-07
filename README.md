@@ -91,7 +91,7 @@ Repo: https://github.com/vexel-prod/react-users-fsd
 ## English
 
 **Frontend Developer (Junior)** focused on React, Next.js, and TypeScript.  
-Built and maintain a production website for a real business: https://refla.ru
+Built and maintain a production website for a real business: https://refla.ru<br>
 Built and maintain a production website for a real business: https://set-engine.ru
 
 Interested in practical frontend development, UI, integrations, and deployment.
