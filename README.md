@@ -1,97 +1,78 @@
-<h1 align="center">Владимир Пашкин</h1>
+<h1 align="center">Vladimir (vexel-prod)</h1>
 <p align="center">
-Frontend Developer (Middle) • React • Next.js • TypeScript <br>
+Frontend Developer • React • Next.js • TypeScript
 </p>
+
 <p align="center">
-Автор и разработчик коммерческого сайта <a href="https://refla.ru" target="_blank">refla.ru</a>
-<br>
-Автор и разработчик коммерческого сайта <a href="https://set-engine.ru" target="_blank">set-engine.ru</a>
+  <a href="https://github.com/vexel-prod">GitHub</a> •
+  <a href="https://t.me/pashkinva">Telegram</a> •
+  <a href="mailto:vldmrpashkin@gmail.com">Email</a>
 </p>
 
 ---
 
-## Обо мне
+## About me
 
-Junior Frontend-разработчик с практическим опытом разработки и поддержки продакшен-сайта.  
-Разрабатываю интерфейсы на React и Next.js, работаю с формами, интеграциями и деплоем.
+Я frontend-разработчик, фокус на прикладных веб-продуктах:  
+- коммерческие сайты для реального бизнеса  
+- SPA/SSR-приложения на React + Next.js  
+- production-пайплайн: от UI до деплоя и поддержки
 
-Основной фокус — прикладная разработка под реальные бизнес-задачи.
+Основной стек: **TypeScript, React, Next.js, TailwindCSS, API integrations, Vercel**.
 
 ---
 
-## Навыки
+## Tech stack
 
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-
-**UI / Стили**
-
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-ff69b4?style=for-the-badge&logo=framer)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Ant Design](https://img.shields.io/badge/Ant_Design-1677FF?style=for-the-badge&logo=antdesign&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-
-**Инструменты**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-1D232A?style=for-the-badge&logo=daisyui&logoColor=5A0EF8)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Автоматизация / Тестирование**
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=F05032)
 
 ---
 
-## Коммерческий проект
+## Featured projects
 
-### REFLA — сайт услуг по установке зеркал на входные двери
-Live: https://refla.ru  
-Repo: https://github.com/vexel-prod/refla-mirror-site
+### 1) pokemons-fights
+Интерактивная Pokémon battle arena с тайминг-механикой, погодой и лор-способностями.  
+**Stack:** Next.js 16, React, TypeScript, TailwindCSS, daisyUI  
+**Repo:** https://github.com/vexel-prod/pokemons-fights
 
-Стек: Next.js, TypeScript, Tailwind CSS, Vercel
+### 2) set-engine-site
+Коммерческий сайт для ООО «СЭТ».  
+**Stack:** Next.js, TypeScript  
+**Live:** https://set-engine.ru  
+**Repo:** https://github.com/vexel-prod/set-engine-site
 
-В рамках проекта я:
+### 3) refla-service-site
+Коммерческий сайт услуг по установке зеркал на входные двери.  
+**Stack:** Next.js, TypeScript, Telegram integration  
+**Live:** https://refla.ru  
+**Repo:** https://github.com/vexel-prod/refla-service-site
 
-- Разработал клиентскую и серверную часть сайта
-- Реализовал калькулятор стоимости услуг
-- Настроил формы заявок с валидацией
-- Интегрировал уведомления через Telegram Bot API
-- Настроил деплой, домен и HTTPS
-- Поддерживаю и дорабатываю проект
+### 4) react-users-fsd
+Учебно-прикладной проект с архитектурным подходом FSD.  
+**Stack:** React, TypeScript, Feature-Sliced Design  
+**Repo:** https://github.com/vexel-prod/react-users-fsd
 
-Проект используется реальными пользователями и приносит лиды бизнесу.
-
----
-
-## Другие проекты
-
-### React Users DB (тестовое / учебно-прикладной проект)
-Repo: https://github.com/vexel-prod/react-users-fsd
-
-- Авторизация и protected routes
-- CRUD для пользователей
-- TanStack Query
-- Архитектура Feature-Sliced Design (FSD)
-- Ant Design
+### 5) nextjs-dashboard
+Dashboard-проект на Next.js.  
+**Live:** https://nextjs-dashboard-sable-three-53.vercel.app  
+**Repo:** https://github.com/vexel-prod/nextjs-dashboard
 
 ---
 
-## Контакты
+## Contacts
 
-- Email: vldmrpashkin@gmail.com  
 - Telegram: https://t.me/pashkinva
+- Email: vldmrpashkin@gmail.com
 
 ---
 
-## English
+## English (short)
 
-**Frontend Developer (Middle)** focused on React, Next.js, and TypeScript.  
-Built and maintain a production website for a real business: https://refla.ru<br>
-Built and maintain a production website for a real business: https://set-engine.ru
-
-Interested in practical frontend development, UI, integrations, and deployment.
+Frontend Developer focused on **React / Next.js / TypeScript**.  
+I build commercial websites and web apps end-to-end: UI, integrations, deployment, and support.
