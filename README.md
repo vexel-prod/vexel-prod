@@ -4,8 +4,8 @@ Frontend Developer • React • Next.js • TypeScript
 </p>
 
 <p align="center">
-  <a href="https://t.me/pashkinva">Telegram</a> •
-  <a href="mailto:vldmrpashkin@gmail.com">Email</a>
+  <a href="https://t.me/pashkinva">Telegram</a>
+  <a href="mailto:vldmrpashkin@icloud.com">Email</a>
 </p>
 
 ---
