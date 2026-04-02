@@ -9,12 +9,6 @@ Frontend Developer • React • Next.js • TypeScript
   <a href="mailto:vldmrpashkin@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/vexel-prod/certificate">
-    <img src="https://raw.githubusercontent.com/vexel-prod/certificate/main/certificate.png" alt="Certificate" width="700" />
-  </a>
-</p>
-
 ---
 
 ## About me
