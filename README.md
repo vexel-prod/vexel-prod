@@ -4,7 +4,6 @@ Frontend Developer • React • Next.js • TypeScript
 </p>
 
 <p align="center">
-  <a href="https://github.com/vexel-prod">GitHub</a> •
   <a href="https://t.me/pashkinva">Telegram</a> •
   <a href="mailto:vldmrpashkin@gmail.com">Email</a>
 </p>
